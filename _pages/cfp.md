@@ -1,5 +1,5 @@
 ---
-title: "The 18th meeting of Generative Approaches to Second Language Acquisition "
+title: "The 18th Meeting of Generative Approaches to Second Language Acquisition "
 layout: splash
 permalink: /cfp/
 header:
