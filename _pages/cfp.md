@@ -1,33 +1,48 @@
 ---
-title: "The 17th International Conference on Greek Linguistics   "
+title: "The 18th meeting of Generative Approaches to Second Language Acquisition "
 layout: splash
 permalink: /cfp/
 header:
   overlay_image: "/assets/images/river_cam.jpg"
   # caption: 'Photo of the river in Cambridge, U.K.'
-excerpt: "23-26th September 2025<br>University of Cambridge, U.K."
+excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 ---
 
 ## Call for Papers
 
-The Faculty of Medieval and Modern Languages & Linguistics (MMLL) and the Cambridge Centre for Greek Studies (CCGS) at the University of Cambridge, are pleased to announce the 17th International Conference Annual Meeting to be held in Cambridge on **23-26th September 2025**. 
+We are excited to announce that the 18th meeting of Generative Approaches to Second Language Acquisition (GASLA-18) will take place here, at the University Cambridge, 16-18th of April 2026.
 
-ICGL is a biennial meeting, held every two years since 1993, that focuses on all aspects of the linguistic study and analysis of Greek, from Ancient up through Modern Greek. A small number of thematic workshops will be held in parallel to the main conference. _We invite contributions for papers and workshops on any field of Greek Linguistics._ 
+GASLA is a biennial meeting, held every two years since 1992, that focuses on theoretically informed research on second language acquisition. We invite submissions considering connections between generative SLA research and teaching, e.g.  linguistically informed intervention studies, implications of generative SLA approaches for curriculum design, teaching materials, teacher training etc.
 
-### Submission for Paper Presentations
+### Presentation Format
 
-Those who wish to participate in ICGL17 with a presentation are invited to submit two copies of their abstracts (one anonymous and one signed) by ***15th September 2024***. Notification of acceptance will be sent by **15th December 2024**. Submission details will be announced shortly on our website and will be included in our 2nd call. Each participant is entitled to submit only **one** (single or joined) paper presentation. In exceptional circumstances a single and a joined paper by the same author might be allowed - please contact the Organising Committee for further details. Papers may be presented either in Greek or in English and should be 20 minutes long followed by a 10-minute discussion. 
+All submissions will be considered for both oral presentations (30 minutes, including 10 minutes for discussion) and poster presentation. The submission process is the same for the main session and for the themed sessions. 
 
+### Main Session
 
-### Submission for Thematic Workshops  
+For the main session, we invite abstract submissions of original, unpublished work conducted from the generative perspective on any aspect of second language acquisition, bilingualism, third language acquisition / multilingualism, and/or heritage language acquisition. Submitting results from work in progress or unsuccessful experiments is also encouraged.  
 
-Researchers who wish to organize a workshop are welcome to submit a single A4 page abstract detailing its content. Workshops on all areas of the analysis of Greek are welcome. 
-Abstracts should be written in Word _(.doc, .docx or .rtf format)_ and sent by **30th June 2024** to the electronic address <a href="mailto:icgl17@mmll.cam.ac.uk" target="_blank">icgl17@mmll.cam.ac.uk</a>
+### Themed Sessions 
 
-The following information should be included in the main body of the message:  
-1.	Organizer’s Name and affiliation
-2.	Title of the thematic workshop  
-3.	List of participants (including names and affiliations and individual titles)  
+In addition to the main session, there will be two themed sessions.
+
+Themed Session I: **Theoretical Foundations**
+
+We invite submissions considering  the implications of recent empirical results on theory and current debates on  L2/multilingual representations and learnability. 
+
+Themed Session II: **Language Learning and Teaching**
+
+We invite submissions considering connections between generative SLA research and teaching, e.g.  linguistically informed intervention studies, implications of generative SLA approaches for curriculum design, teaching materials, teacher training etc.  
+
+### Submission Guidelines 
+
+Abstracts should not exceed one page in letter-size or A4 paper, with one extra page for examples, tables, figures and references, with 1 inch or 2.5 cm margins on all sides and 12-point font size.	
+
+- The abstract should have a clear title and should not reveal the name of the author(s).
+- The abstracts must be uploaded as PDF attachments to [our page on Oxford Abstracts](https://app.oxfordabstracts.com/stages/78963/submitter).
+- Submissions are limited to **one first or single-author abstract**. Multiple joint (not first) author submissions are accepted (but no more than two joint abstracts from the same group of authors).	
+- Please indicate if you would like your abstract to be considered for one of the themed sessions. All submissions will be considered for both oral and poster presentations.
+- We encourage graduate students and early career scholars to submit.
 
 ### Important Dates
 
@@ -35,10 +50,10 @@ The following information should be included in the main body of the message:
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Abstract deadline (Workshops) | 30th June, 2024 |
-| Abstract deadline (Papers) | 15th Septmeber, 2024 |
-| Notification | 15th December, 2024 |
-| Conference | 23-26th September, 2025 |
+| Abstracts open for submission | 1st Sept 2025 |
+| Abstract deadline | 17th Nov 2025 |
+| Notification of acceptance  | 18th Jan 2026 |
+| Conference | 16-18th Apr 2026 |
 
 {: .news-table}
 
