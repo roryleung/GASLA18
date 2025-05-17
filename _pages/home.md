@@ -10,26 +10,13 @@ excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 
 ## Welcome!
 
-We are excited to announce that the 18th meeting of Generative Approaches to Second Language Acquisition (GASLA-18) will take place here, at the University Cambridge, 16-18th of April 2026 
-Παρακαλούμε δείτε την _[Πρόσκληση για Υποβολή Εργασιών](cfp)_
+The 17th International Conference on Greek Linguistics will take place in Cambridge, U.K. from Tuesday 23th to Friday 26th September 2025.
+Please see the _[Call for Papers](/cfp/)_.
 
 
-### Κεκλημένοι Ομιλητές
+### Plenary Speakers
 
-* Mary Baltazani, Πανεπιστήμιο της Οξφόρδης
-* Vicky Chondrogianni, Πανεπιστήμιο της Εδιμβούργου
-* Giorgos Giannakis, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης
-* Kleanthes Grohmann, Πανεπιστήμιο της Κύπρου
-* Sophia Marmaridou, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών
-* George Tsoulas, Πανεπιστήμιο του Γιορκ
-
-
-### Οργανωτική Επιτροπή
-
-* Ianthi Tsimpli _(Πρόεδρος)_
-* Dora Alexopoulou
-* Napoleon Katsos
-* Ioanna Sitaridou
-* Leonardo Russo-Cardona
-* Chara Triandafyllidou
-* Dimitrios Kastanas
+* Laura Dominguez, University of Southampton
+* Ayşe Gürel,  Bogazici University
+* Cristóbal Lozano, University of Granada
+* Melinda Whong, The Hong Kong University of Science and Technology
