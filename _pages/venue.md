@@ -1,7 +1,7 @@
 ---
 title: "The 18th meeting of Generative Approaches to Second Language Acquisition"
 layout: splash
-permalink: /venue
+permalink: /venue/
 header:
   overlay_image: "/assets/images/river_cam.jpg"
   # caption: 'Photo of the river in Cambridge, U.K.'
