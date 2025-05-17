@@ -1,16 +1,16 @@
 ---
-title: "17η Διεθνής Συνάντηση για την Ελληνική Γλωσσολογία"
+title: "The 18th meeting of Generative Approaches to Second Language Acquisition"
 layout: splash
-permalink: /
+permalink: /404.html
 header:
   overlay_image: "/assets/images/river_cam.jpg"
   # caption: 'Photo of the river in Cambridge, U.K.'
-excerpt: "23-26 Σεπτεμβρίου 2025<br>Πανεπιστήμιο του Κέιμπριτζ, Ηνωμένο Βασίλειο"
+excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 ---
 
-## Καλώς ήρθατε!
+## Welcome!
 
-Η 17η Διεθνής Συνάντηση για την Ελληνική Γλωσσολογία θα πραγματοποιηθεί στο Κέιμπριτζ, Ηνωμένο Βασίλειο, από την Τρίτη 23η έως την Παρασκευή 26η Σεπτεμβρίου 2025.
+We are excited to announce that the 18th meeting of Generative Approaches to Second Language Acquisition (GASLA-18) will take place here, at the University Cambridge, 16-18th of April 2026 
 Παρακαλούμε δείτε την _[Πρόσκληση για Υποβολή Εργασιών](cfp)_
 
 
