@@ -1,0 +1,23 @@
+# main links
+#in masthead.html
+main:
+  - title: "Αρχική"
+    url: /
+  
+  - title: "Πρόσκληση"
+    url: /cfp/
+
+  - title: "Χώρος"
+    url: /venue/
+    
+  - title: "Εγγραφή"
+    url: /registration/
+
+  - title: "Πρόγραμμα"
+    url: /programme/
+    
+  - title: "Επικοινωνία"
+    url: /contact/
+
+  - title: "🇬🇧"
+    url: "javascript:window.location.href=window.location.pathname.replace('/ICGL17-GR/', '/ICGL17-EN/');"
