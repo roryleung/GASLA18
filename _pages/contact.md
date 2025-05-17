@@ -11,3 +11,13 @@ excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 ## Contact Us
 
 If you have any enquiries, please contact the Organisation Committee at <a href="mailto:gasla18@mmll.cam.ac.uk" target="_blank">gasla18@mmll.cam.ac.uk</a>. 
+
+## Organsing Committee
+
+* Dora Alexopoulou _(Chair)_
+* Ianthi Tsmpli
+* Lucy Xia Zhao
+* Yidie Cheng
+* Rory Shue Sum Leung
+* Xin Yan
+* Miao Zhou
