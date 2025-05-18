@@ -15,6 +15,7 @@ If you have any enquiries, please contact the Organisation Committee at <a href=
 ## Organsing Committee
 
 * Dora Alexopoulou _(Chair)_
+* Napoleon Katsos
 * Ianthi Tsmpli
 * Lucy Xia Zhao
 * Yidie Cheng
