@@ -14,7 +14,7 @@ The 18th Meeting of Generative Approaches to Second Language Acquisitio will tak
 Please see the _[Call for Papers](/cfp/)_.
 
 
-### Plenary Speakers
+### Invited Speakers
 
 * Laura Dominguez, University of Southampton
 * Ayşe Gürel,  Bogazici University
