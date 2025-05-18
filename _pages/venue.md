@@ -1,11 +1,11 @@
 ---
-title: "The 17th International Conference on Greek Linguistics"
+title: "The 18th Meeting of Generative Approaches to Second Language Acquisition         "
 layout: splash
 permalink: /venue/
 header:
-  overlay_image: "/assets/images/river_cam.jpg"
+  overlay_image: "/assets/images/banner.jpg"
   # caption: 'Photo of the river in Cambridge, U.K.'
-excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
+excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 ---
 ## Venue information
 
@@ -13,4 +13,4 @@ The conference will take place at Buckingham House Conference Centre in Murray E
 
 Please refer to [here](https://www.murrayedwards.cam.ac.uk/about-us/visit-us) for more information on how to get to the college. 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2536.937400761279!2d0.10712827666258232!3d52.21382087198255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d870c7c1cb53e1%3A0x9731bf0bb39a71c6!2sBuckingham%20House%20Conference%20Centre!5e1!3m2!1sen!2sus!4v1747519457809!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br />
+<iframe width="720" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;q=Buckingham%20House%20Conference%20Centre%20+(Conference%20Venue)&amp;t=h&amp;z=18&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
