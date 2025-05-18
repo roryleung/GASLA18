@@ -10,7 +10,7 @@ excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 
 ## Call for Papers
 
-We are excited to announce that the 18th meeting of Generative Approaches to Second Language Acquisition (GASLA-18) will take place here, at the University Cambridge, 16-18th of April 2026.
+We are excited to announce that the 18th meeting of Generative Approaches to Second Language Acquisition (GASLA-18) will take place at the University Cambridge on 16-18th of April 2026.
 
 GASLA is a biennial meeting that focuses on theoretically informed research on second language acquisition. We invite submissions considering connections between generative SLA research and teaching, e.g. linguistically informed intervention studies, implications of generative SLA approaches for curriculum design, teaching materials, teacher training etc.
 
@@ -39,7 +39,7 @@ We invite submissions considering connections between generative SLA research an
 Abstracts should not exceed one page in letter-size or A4 paper, with one extra page for examples, tables, figures and references, with 1 inch or 2.5 cm margins on all sides and 12-point font size.	
 
 - The abstract should have a clear title and should not reveal the name of the author(s).
-- The abstracts must be uploaded as PDF attachments to [our page on Oxford Abstracts](https://app.oxfordabstracts.com/stages/78963/submitter).
+- The abstracts must be uploaded as PDF attachments to [our Oxford Abstracts page](https://app.oxfordabstracts.com/stages/78963/submitter).
 - Submissions are limited to **one first or single-author abstract**. Multiple joint (not first) author submissions are accepted (but no more than two joint abstracts from the same group of authors).	
 - Please indicate if you would like your abstract to be considered for one of the themed sessions. All submissions will be considered for both oral and poster presentations.
 - We encourage graduate students and early career scholars to submit.
