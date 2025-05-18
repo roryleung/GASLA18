@@ -10,7 +10,7 @@ excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 
 ## Welcome!
 
-The 17th International Conference on Greek Linguistics will take place in Cambridge, U.K. from Thursday 16th to Saturday 18th April 2026.
+The 18th Meeting of Generative Approaches to Second Language Acquisitio will take place in Cambridge, U.K. from Thursday 16th to Saturday 18th April 2026.
 Please see the _[Call for Papers](/cfp/)_.
 
 
