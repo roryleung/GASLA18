@@ -8,7 +8,7 @@ main:
     url: /cfp/
 
   - title: "Venue"
-    url: /vn/
+    url: /venue/
     
   - title: "Registration"
     url: /registration/
