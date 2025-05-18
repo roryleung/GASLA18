@@ -5,16 +5,16 @@ main:
     url: /
   
   - title: "Call for Papers"
-    url: /cfp/
+    url: /cfp.html
 
   - title: "Venue"
-    url: /venue/
+    url: /venue.html
     
   - title: "Registration"
-    url: /registration/
+    url: /registration.html
 
   - title: "Programme"
-    url: /programme/
+    url: /programme.html
     
   - title: "Contact"
-    url: /contact/
+    url: /contact.html
