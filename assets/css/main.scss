@@ -8,7 +8,9 @@ $link-color: #2020df;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
+.initial-content {
+  margin-bottom: 10% !important; 
+}
 // overriding the color of the splash image caption
 .page__hero {
   &--overlay {
