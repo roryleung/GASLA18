@@ -1,7 +1,7 @@
 ---
 title: "The 18th Meeting of Generative Approaches to Second Language Acquisition      "
 layout: splash
-permalink: /venue/
+permalink: /vn/
 header:
   overlay_image: "/assets/images/banner.jpg"
   # caption: 'Photo of the Murray Edwards College in Cambridge, U.K.'
