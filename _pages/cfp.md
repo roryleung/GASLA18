@@ -39,7 +39,7 @@ We invite submissions considering connections between generative SLA research an
 Abstracts should not exceed one page in letter-size or A4 paper, with one extra page for examples, tables, figures and references, with 1 inch or 2.5 cm margins on all sides and 12-point font size.	
 
 - The abstract should have a clear title and should not reveal the name of the author(s).
-- The abstracts must be uploaded as PDF attachments to [our Oxford Abstracts page](https://app.oxfordabstracts.com/stages/78963/submitter).
+- The abstracts must be uploaded as PDF attachments to [our Oxford Abstracts page](https://app.oxfordabstracts.com/stages/78963/submitter){:target="_blank"}.
 - Submissions are limited to **one first or single-author abstract**. Multiple joint (not first) author submissions are accepted (but no more than two joint abstracts from the same group of authors).	
 - Please indicate if you would like your abstract to be considered for one of the themed sessions. All submissions will be considered for both oral and poster presentations.
 - We encourage graduate students and early career scholars to submit.
