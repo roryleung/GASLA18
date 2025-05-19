@@ -12,6 +12,10 @@ $link-color: #2020df;
   margin-bottom: 10% !important; 
 }
 // overriding the color of the splash image caption
+..page__footer {
+      background-color: #82dfff !important;
+}
+
 .page__hero {
   &--overlay {
     .page__title {
