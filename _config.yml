@@ -20,20 +20,20 @@ livereload: true
 locale                   : "en-US"
 title                    : "  "
 title_separator          : "  "
-name                     : "GASLA18"
+name                     : "GASLA-18"
 description              : "Official website for the 18th meeting of Generative Approaches to Second Language Acquisition "
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : roryleung/GASLA18 #"naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/logos/emnlp-2023-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "GASLA18" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "GASLA-18" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "GASLA18"
+    shortname            : "GASLA-18"
 reCaptcha:
   siteKey                :
   secret                 :
