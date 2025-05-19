@@ -12,7 +12,7 @@ excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 
 We are excited to announce that the 18th meeting of Generative Approaches to Second Language Acquisition (GASLA-18) will take place at the University Cambridge on 16-18th of April 2026.
 
-GASLA is a biennial meeting that focuses on theoretically informed research on second language acquisition. We invite submissions considering connections between generative SLA research and teaching, e.g. linguistically informed intervention studies, implications of generative SLA approaches for curriculum design, teaching materials, teacher training etc.
+GASLA is a biennial conference where linguists present theoretically informed research on second language acquisition.
 
 ### Presentation Format
 
