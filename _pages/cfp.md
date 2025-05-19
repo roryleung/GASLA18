@@ -3,8 +3,8 @@ title: "The 18th Meeting of Generative Approaches to Second Language Acquisition
 layout: splash
 permalink: /cfp.html
 header:
-  overlay_image: "/assets/images/banner.jpg"
-  # caption: 'Photo of the Murray Edwards College in Cambridge, U.K.'
+  overlay_image: "/assets/images/banner_kings.jpg"
+  # caption: 'Photo of King's College Chapel in Cambridge, U.K.'
 excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 ---
 
