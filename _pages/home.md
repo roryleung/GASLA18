@@ -67,7 +67,7 @@ Please see the _[Call for Papers](/cfp.html)_.
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/MW.jpg"
          alt="Melinda Whong"
-         style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+         style="width: 200px; height: 250px; object-fit: cover; object-position: top; border-radius: 8px;">
     <p><strong>Melinda Whong</strong><br>
     The Hong Kong University of Science and Technology<br>
     <a href="/downloads/MW.pdf"
