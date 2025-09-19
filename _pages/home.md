@@ -16,11 +16,6 @@ Please see the _[Call for Papers](/cfp.html)_.
 
 ### Invited Speakers
 
-* Laura Dominguez, University of Southampton
-* Ayşe Gürel,  Bogazici University
-* Cristóbal Lozano, University of Granada
-* Melinda Whong, The Hong Kong University of Science and Technology
-
 <div style="max-width: 960px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/LD.png"
