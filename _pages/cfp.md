@@ -51,7 +51,7 @@ Abstracts should not exceed one page in letter-size or A4 paper, with one extra 
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 | Abstracts open for submission | 1st Sept 2025 |
-| Abstract deadline | 17th Nov 2025 |
+| Abstract deadline | 24th Nov 2025 <s>17th Nov 2025</s> |
 | Notification of acceptance  | 18th Jan 2026 |
 | Conference | 16-18th Apr 2026 |
 
