@@ -21,6 +21,6 @@ If you have any enquiries, please contact the Organisation Committee at <a href=
 * Lucy Xia Zhao
 * Yidie Cheng
 * Rory Shue Sum Leung
-* Annie Wei
+* Zewei Wei
 * Xin Yan
 * Miao Zhou
