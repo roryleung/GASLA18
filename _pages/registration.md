@@ -28,5 +28,5 @@ Accommodation (Limited number of rooms has been reserved in the Colleges below):
 * Single room B&B at [Churchill College](https://www.chu.cam.ac.uk/about/contact/) (5-10 minutes walk from the venue): £106.40 per night
 
 Extras 
-* Conference dinner (17th Feb; Dome Dining Hall, Murray Edwards College): £50
+* Conference dinner (Friday 18th Apr; Dome Dining Hall, Murray Edwards College): £50
 * Punting tour: £15
