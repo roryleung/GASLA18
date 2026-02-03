@@ -24,6 +24,7 @@ Registration for the conference is priced as follows:
 
 Accommodation (Limited number of rooms has been reserved in the Colleges below):
 * Single room B&B at Murray Edwards College: £85 per night
+* Twin room B&B at Murray Edwards College: £130 per night
 * Single room B&B at [Churchill College](https://www.chu.cam.ac.uk/about/contact/) (5-10 minutes walk from the venue): £106.40 per night
 
 Extras 
