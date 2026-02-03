@@ -22,11 +22,13 @@ Registration for the conference is priced as follows:
 
 *The early bird fees are applicable for registrations completed on or before **10 March 2026**. Full price applies to registrations from **11 to 30 March 2026**.*
 
-Accommodation (Limited number of rooms has been reserved in the Colleges below):
+**Accommodation** (_Limited number of rooms has been reserved in the Colleges below_):
 * Single room B&B at Murray Edwards College: £85 per night
 * Twin room B&B at Murray Edwards College: £130 per night
 * Single room B&B at [Churchill College](https://www.chu.cam.ac.uk/about/contact/) (5-10 minutes walk from the venue): £106.40 per night
 
-Extras 
+**Priority will be given to those who book four nights (15th-18th April).**
+
+**Extras**
 * Conference dinner (Friday 17th April; Dome Dining Hall, Murray Edwards College): £50
 * Punting tour (Thursday 16th or Saturday 18th April 7pm): £12.50
