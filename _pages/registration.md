@@ -32,3 +32,5 @@ Registration for the conference is priced as follows:
 **Extras**
 * Conference dinner (Friday 17th April; Dome Dining Hall, Murray Edwards College): £50
 * Punting tour (Thursday 16th or Saturday 18th April 7pm): £12.50
+
+The registration link will be released shortly.
