@@ -29,4 +29,4 @@ Accommodation (Limited number of rooms has been reserved in the Colleges below):
 
 Extras 
 * Conference dinner (17th April; Dome Dining Hall, Murray Edwards College): £50
-* Punting tour (16th/18th April evening): £20.50
+* Punting tour (16th/18th April evening): £12.50
