@@ -10,6 +10,22 @@ excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 
 ## Registration information
 
-To be released
+Registration for the conference is priced as follows:
+
+| Category | GBP |
+| --- | --- |
+| Early-bird standard | 180.00 |
+| Standard full-price | 200.00 |
+| Early-bird student | 155.00 |
+| Student full-price | 180.00 |
 
 
+*The early bird fees are applicable for registrations completed on or before **10 March 2026**. Full price applies to registrations from **11 March to 30 September 2025**.*
+
+Accommodation - Limited number of rooms has been reserved in the Colleges below:
+* Single room B&B at Murray Edwards College: £85 per night
+* Single room B&B at Churchill College (5-10 minutes walk from the venue): £106.40 per night
+
+Extras 
+* Conference dinner: £50
+* Punting tour (Friday evening): £15
