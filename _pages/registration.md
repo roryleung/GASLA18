@@ -27,10 +27,10 @@ Registration for the conference is priced as follows:
 * Twin room B&B at Murray Edwards College: £130 per night
 * Single room B&B at [Churchill College](https://www.chu.cam.ac.uk/about/contact/) (5-10 minutes walk from the venue): £106.20 per night
 
-**Priority will be given to delegates booking four nights (15th-18th April).**
+**Priority will be given to delegates booking four nights (15th-18th April).** The link for registerimg for accomodation will be released soon.  
 
 **Extras**
 * Conference dinner (Friday 17th April; Dome Dining Hall, Murray Edwards College): £50
-* Punting tour (Thursday 16th or Saturday 18th April 7pm): £12.50
+* Punting tour with [Rutherfords](https://rutherfordspunting.com/) through the iconic Cambridge colleges  (Thursday 16th or Saturday 18th April 7pm): £12.50
 
 The registration link will be released shortly.
