@@ -28,7 +28,6 @@ Registration for the conference is priced as follows:
 * Single room B&B at [Churchill College](https://www.chu.cam.ac.uk/about/contact/) (5-10 minutes walk from the venue): £106.20 per night
 * Photo references for the rooms are linked here: [Murray Edwards College](https://www.universityrooms.com/en-GB/city/cambridge/college/murrayedwards#PhotosPopup) | [Churchill College](https://www.universityrooms.com/en-GB/city/cambridge/college/churchill?gad_source=1&gad_campaignid=924513515&gbraid=0AAAAAD81swu1bq02lx-3M1heLOCfcUKFi&gclid=Cj0KCQiAtfXMBhDzARIsAJ0jp3AYPIZbVG6RpVO1IJVyeXdDM-CYeKAEBt5-OsgLyfdRaMEoJWXNaK8aAvKDEALw_wcB#PhotosPopup) 
 
-**Priority will be given to delegates booking four nights (15th-18th April).**   
 
 **Extras**
 * Conference dinner (Friday 17th April; Dome Dining Hall, Murray Edwards College): £50
