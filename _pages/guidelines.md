@@ -16,6 +16,4 @@ Each oral presentation is allocated a 30-minute slot, consisting of:
 * 3 minutes for changeover between presentations 
  
 ### Poster Presentations 
-Poster boards can accommodate an A0 poster (84.1 × 118.9 cm) in either portrait or landscape orientation. The board surface is fabric, and pins for attaching posters to the boards will be provided. 
- 
-_Presenters are responsible for printing and bringing their own posters to the conference._
+Poster boards can accommodate an A0 poster (84.1 × 118.9 cm) in either portrait or landscape orientation. The board surface is fabric, and pins for attaching posters to the boards will be provided. Presenters are responsible for printing and bringing their own posters to the conference.
