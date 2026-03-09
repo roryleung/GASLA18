@@ -15,6 +15,9 @@ main:
 
   - title: "Programme"
     url: /programme.html
-    
+
+  - title: "Presentation Guidelines"
+    url: /guidelines.html
+
   - title: "Contact"
     url: /contact.html
