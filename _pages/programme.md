@@ -9,6 +9,8 @@ excerpt: "16-18th April 2026<br>University of Cambridge, U.K."
 ---
 ## Programme details
 
-To be released
+<object data="/assets/GASLA18-PROGRAM.pdf" type="application/pdf" width="100%" height="600px">
+    <a href="/assets/GASLA18-PROGRAM.pdf" target="_blank">Download PDF</a>
+</object>
 
 
